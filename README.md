@@ -61,9 +61,13 @@ cart management, real-time reviews, and seamless user profile updates.
 - [Add New Card](firebase_project/screenshots/Account/accountCardsNew8.jpg)  
 - [Updated Profile](firebase_project/screenshots/Account/accountHome9.jpg)  
 - [Updated Account Home](firebase_project/screenshots/Account/accountHome10.jpg)  
-- [Google Account Integration](firebase_project/screenshots/Account/accountGoogle11.jpg) 
+- [Google Account Home](firebase_project/screenshots/Account/accountGoogle11.jpg) 
 
-
+### Search
+- [Search Filter](firebase_project/screenshots/Search/searchFilter1.jpg)
+- [Search Result](firebase_project/screenshots/Search/searchResult2.jpg)
+- [Search Destails](firebase_project/screenshots/Search/searchDestails3.jpg)
+- [Search Add Cart](firebase_project/screenshots/Search/searchAddCart4.jpg)
 
 
 
