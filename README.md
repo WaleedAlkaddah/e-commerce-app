@@ -74,9 +74,8 @@ cart management, real-time reviews, and seamless user profile updates.
 - [Sign In Google](firebase_project/screenshots/Sign%20in%20and%20up/signInGoogle.jpg)
 - [Sign UP](firebase_project/screenshots/Sign%20in%20and%20up/signUP.jpg)
 
-
- 
 ## Setup Instructions:
 1. Clone the repository.
 2. Run `flutter pub get` to fetch dependencies.
-3. Run the app on your emulator or device.
+3. Setup Firebase.
+4. Run the app on your emulator or device.
