@@ -37,6 +37,9 @@ cart management, real-time reviews, and seamless user profile updates.
 - [Explore Shoes Details 2](firebase_project/screenshots/Explore/exploreShoesDetails7.jpg)
 - [Explore Shoes Reviews 1](firebase_project/screenshots/Explore/exploreShoesReviews8.jpg)
 - [Explore Shoes Reviews 2](firebase_project/screenshots/Explore/exploreShoesAddReviews9.jpg)
+- [Cart](firebase_project/screenshots/Cart/cart1.jpg)
+- [Cart Delete Item](firebase_project/screenshots/Cart/cartDeleteItem2.jpg)
+- [Cart Favorite Item](firebase_project/screenshots/Cart/cartFavoriteItem3.jpg)
 
 
 
