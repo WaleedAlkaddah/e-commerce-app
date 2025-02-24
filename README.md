@@ -40,6 +40,17 @@ cart management, real-time reviews, and seamless user profile updates.
 - [Cart](firebase_project/screenshots/Cart/cart1.jpg)
 - [Cart Delete Item](firebase_project/screenshots/Cart/cartDeleteItem2.jpg)
 - [Cart Favorite Item](firebase_project/screenshots/Cart/cartFavoriteItem3.jpg)
+- [Account Home](firebase_project/screenshots/Account/accountHome1.jpg)
+- [Account Edit Profile](firebase_project/screenshots/Account/accountEditProfile2.jpg)
+- [Account Change Password](firebase_project/screenshots/Account/accountChangePassword3.jpg)
+- [Account Forget Password](firebase_project/screenshots/Account/accountForgetPassword4.jpg)
+- [Account Shipping Address](firebase_project/screenshots/Account/accountShippingAddress5.jpg)
+- [Account WishList](firebase_project/screenshots/Account/accountWishList6.jpg)
+- [Account Cards](firebase_project/screenshots/Account/accountCardsView7.jpg)
+- [Account Cards New](firebase_project/screenshots/Account/accountCardsNew8.jpg)
+- [Account Edit Profile New](firebase_project/screenshots/Account/accountHome9.jpg)
+- [Account Home Updated](firebase_project/screenshots/Account/accountHome10.jpg)
+- [Account Google](firebase_project/screenshots/Account/accountGoogle11.jpg)
 
 
 
