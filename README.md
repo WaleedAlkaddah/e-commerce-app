@@ -29,13 +29,14 @@ cart management, real-time reviews, and seamless user profile updates.
 
 ## Screenshots:
 - [Explore Home](firebase_project/screenshots/Explore/exploreHome1.jpg)        
-- [Intro login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introLogin.jpg)
-- [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen1.jpg)    
-- [Second intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen2.jpg)
-- [Third intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen3.jpg)    
-- [Fourth intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen4.jpg)
-- [Login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/login.jpg)
-- [OTP](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/otpView.jpg)
+- [Explore Shoes 1](firebase_project/screenshots/Explore/exploreShoes2.jpg)   
+- [Explore Shoes 2](firebase_project/screenshots/Explore/exploreShoes3.jpg)
+- [Explore Shoes 3](firebase_project/screenshots/Explore/exploreShoes4.jpg)
+- [Explore Shoes 4](firebase_project/screenshots/Explore/exploreShoes5.jpg)
+- [Explore Shoes Details 1](firebase_project/screenshots/Explore/exploreShoesDetails6.jpg)
+- [Explore Shoes Details 2](firebase_project/screenshots/Explore/exploreShoesDetails7.jpg)
+- [Explore Shoes Reviews 1](firebase_project/screenshots/Explore/exploreShoesReviews8.jpg)
+- [Explore Shoes Reviews 2](firebase_project/screenshots/Explore/exploreShoesAddReviews9.jpg)
 
 
 
