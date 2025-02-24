@@ -28,6 +28,7 @@ cart management, real-time reviews, and seamless user profile updates.
 - flutter_bloc.
 
 ## Screenshots:
+### Explore:
 - [Explore Home](firebase_project/screenshots/Explore/exploreHome1.jpg)        
 - [Explore Shoes 1](firebase_project/screenshots/Explore/exploreShoes2.jpg)   
 - [Explore Shoes 2](firebase_project/screenshots/Explore/exploreShoes3.jpg)
@@ -43,8 +44,8 @@ cart management, real-time reviews, and seamless user profile updates.
 - [Checkout 1](firebase_project/screenshots/Checkout/checkout1.jpg)
 - [Checkout 2](firebase_project/screenshots/Checkout/checkout2.jpg)
 - [Checkout 3](firebase_project/screenshots/Checkout/checkout3.jpg)
-- [Checkout 4](firebase_project/screenshots/Checkout/checkout4.jpg)
-- [Checkout Summary](firebase_project/screenshots/Checkout/checkout5.jpg)
+- [Checkout Summary](firebase_project/screenshots/Checkout/checkout4.jpg)
+- [Checkout Confirmation](firebase_project/screenshots/Checkout/checkout5.jpg)
 - [Account Home](firebase_project/screenshots/Account/accountHome1.jpg)
 - [Account Edit Profile](firebase_project/screenshots/Account/accountEditProfile2.jpg)
 - [Account Change Password](firebase_project/screenshots/Account/accountChangePassword3.jpg)
