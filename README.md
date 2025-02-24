@@ -27,7 +27,8 @@ cart management, real-time reviews, and seamless user profile updates.
 - cached_network_image.
 
 ## Screenshots:
-- [Home](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/home.jpg)        
+- Explore
+- [Explore Home](E-Commerce%20App/firebase_project/screenshots/exploreHome1.jpg)        
 - [Intro login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introLogin.jpg)
 - [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen1.jpg)    
 - [Second intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen2.jpg)
