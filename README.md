@@ -28,7 +28,7 @@ cart management, real-time reviews, and seamless user profile updates.
 - flutter_bloc.
 
 ## Screenshots:
-- [Explore Home](E-Commerce%20App/firebase_project/screenshots/Explore/exploreHome1.jpg)        
+- [Explore Home](firebase_project/screenshots/Explore/exploreHome1.jpg)        
 - [Intro login](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introLogin.jpg)
 - [First intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen1.jpg)    
 - [Second intro screen](Flutter%20(Get%20x)%20(MVC)/my_projects_getx/screenshot/introScreen2.jpg)
