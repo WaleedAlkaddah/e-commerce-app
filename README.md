@@ -28,35 +28,40 @@ cart management, real-time reviews, and seamless user profile updates.
 - flutter_bloc.
 
 ## Screenshots:
-### Explore:
-- [Explore Home](firebase_project/screenshots/Explore/exploreHome1.jpg)        
-- [Explore Shoes 1](firebase_project/screenshots/Explore/exploreShoes2.jpg)   
-- [Explore Shoes 2](firebase_project/screenshots/Explore/exploreShoes3.jpg)
-- [Explore Shoes 3](firebase_project/screenshots/Explore/exploreShoes4.jpg)
-- [Explore Shoes 4](firebase_project/screenshots/Explore/exploreShoes5.jpg)
-- [Explore Shoes Details 1](firebase_project/screenshots/Explore/exploreShoesDetails6.jpg)
-- [Explore Shoes Details 2](firebase_project/screenshots/Explore/exploreShoesDetails7.jpg)
-- [Explore Shoes Reviews 1](firebase_project/screenshots/Explore/exploreShoesReviews8.jpg)
-- [Explore Shoes Reviews 2](firebase_project/screenshots/Explore/exploreShoesAddReviews9.jpg)
-- [Cart](firebase_project/screenshots/Cart/cart1.jpg)
-- [Cart Delete Item](firebase_project/screenshots/Cart/cartDeleteItem2.jpg)
-- [Cart Favorite Item](firebase_project/screenshots/Cart/cartFavoriteItem3.jpg)
-- [Checkout 1](firebase_project/screenshots/Checkout/checkout1.jpg)
-- [Checkout 2](firebase_project/screenshots/Checkout/checkout2.jpg)
-- [Checkout 3](firebase_project/screenshots/Checkout/checkout3.jpg)
-- [Checkout Summary](firebase_project/screenshots/Checkout/checkout4.jpg)
-- [Checkout Confirmation](firebase_project/screenshots/Checkout/checkout5.jpg)
-- [Account Home](firebase_project/screenshots/Account/accountHome1.jpg)
-- [Account Edit Profile](firebase_project/screenshots/Account/accountEditProfile2.jpg)
-- [Account Change Password](firebase_project/screenshots/Account/accountChangePassword3.jpg)
-- [Account Forget Password](firebase_project/screenshots/Account/accountForgetPassword4.jpg)
-- [Account Shipping Address](firebase_project/screenshots/Account/accountShippingAddress5.jpg)
-- [Account WishList](firebase_project/screenshots/Account/accountWishList6.jpg)
-- [Account Cards](firebase_project/screenshots/Account/accountCardsView7.jpg)
-- [Account Cards New](firebase_project/screenshots/Account/accountCardsNew8.jpg)
-- [Account Edit Profile New](firebase_project/screenshots/Account/accountHome9.jpg)
-- [Account Home Updated](firebase_project/screenshots/Account/accountHome10.jpg)
-- [Account Google](firebase_project/screenshots/Account/accountGoogle11.jpg)
+
+### Explore & Product Browsing
+- [Explore Home](firebase_project/screenshots/Explore/exploreHome1.jpg)  
+- [Explore Shoes 1](firebase_project/screenshots/Explore/exploreShoes2.jpg)  
+- [Explore Shoes 2](firebase_project/screenshots/Explore/exploreShoes3.jpg)  
+- [Explore Shoes 3](firebase_project/screenshots/Explore/exploreShoes4.jpg)  
+- [Explore Shoes 4](firebase_project/screenshots/Explore/exploreShoes5.jpg)  
+- [Shoes Details 1](firebase_project/screenshots/Explore/exploreShoesDetails6.jpg)  
+- [Shoes Details 2](firebase_project/screenshots/Explore/exploreShoesDetails7.jpg)  
+- [Shoes Reviews](firebase_project/screenshots/Explore/exploreShoesReviews8.jpg)  
+- [Add Reviews](firebase_project/screenshots/Explore/exploreShoesAddReviews9.jpg)  
+
+### Shopping Cart & Checkout
+- [Cart](firebase_project/screenshots/Cart/cart1.jpg)  
+- [Delete Item from Cart](firebase_project/screenshots/Cart/cartDeleteItem2.jpg)  
+- [Favorite Item in Cart](firebase_project/screenshots/Cart/cartFavoriteItem3.jpg)  
+- [Checkout Step 1](firebase_project/screenshots/Checkout/checkout1.jpg)  
+- [Checkout Step 2](firebase_project/screenshots/Checkout/checkout2.jpg)  
+- [Checkout Step 3](firebase_project/screenshots/Checkout/checkout3.jpg)  
+- [Checkout Summary](firebase_project/screenshots/Checkout/checkout4.jpg)  
+- [Checkout Confirmation](firebase_project/screenshots/Checkout/checkout5.jpg)  
+
+### User Account & Profile
+- [Account Home](firebase_project/screenshots/Account/accountHome1.jpg)  
+- [Edit Profile](firebase_project/screenshots/Account/accountEditProfile2.jpg)  
+- [Change Password](firebase_project/screenshots/Account/accountChangePassword3.jpg)  
+- [Forget Password](firebase_project/screenshots/Account/accountForgetPassword4.jpg)  
+- [Shipping Address](firebase_project/screenshots/Account/accountShippingAddress5.jpg)  
+- [WishList](firebase_project/screenshots/Account/accountWishList6.jpg)  
+- [Saved Cards](firebase_project/screenshots/Account/accountCardsView7.jpg)  
+- [Add New Card](firebase_project/screenshots/Account/accountCardsNew8.jpg)  
+- [Updated Profile](firebase_project/screenshots/Account/accountHome9.jpg)  
+- [Updated Account Home](firebase_project/screenshots/Account/accountHome10.jpg)  
+- [Google Account Integration](firebase_project/screenshots/Account/accountGoogle11.jpg) 
 
 
 
