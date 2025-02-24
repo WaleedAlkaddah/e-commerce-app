@@ -69,6 +69,10 @@ cart management, real-time reviews, and seamless user profile updates.
 - [Search Destails](firebase_project/screenshots/Search/searchDestails3.jpg)
 - [Search Add Cart](firebase_project/screenshots/Search/searchAddCart4.jpg)
 
+### Sign in & Sign up
+- [Sign In](firebase_project/screenshots/Sign%20in%20and%20up/signIn.jpg)
+- [Sign In Google](firebase_project/screenshots/Sign%20in%20and%20up/signInGoogle.jpg)
+- [Sign UP](firebase_project/screenshots/Sign%20in%20and%20up/signUP.jpg)
 
 
  
