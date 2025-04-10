@@ -79,3 +79,7 @@ cart management, real-time reviews, and seamless user profile updates.
 2. Run `flutter pub get` to fetch dependencies.
 3. Setup Firebase.
 4. Run the app on your emulator or device.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
