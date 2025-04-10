@@ -82,4 +82,4 @@ cart management, real-time reviews, and seamless user profile updates.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](firebase_project/licence.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](firebase_project/license) file for details.
